@@ -1,3 +1,5 @@
+require 'yaml'
+
 # Sets Play up to be used by its friendly friends.
 module Play
 
